@@ -1,7 +1,8 @@
 # Applications and Code
 
 ## Java
-https://www.jooq.org/ SQL queries.
+www.jooq.org SQL queries.
 
 ## Utility
 www.bleachbit.org File cleaner.
+www.jgoodies.com/freeware/jdiskreport HDD analysis.
